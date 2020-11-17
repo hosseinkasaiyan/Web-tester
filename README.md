@@ -1,4 +1,4 @@
-[![Python 3.5](https://img.shields.io/badge/Python-3.8-yellow.svg)](http://www.python.org/download/) 
+[![Python 3.8](https://img.shields.io/badge/Python-3.8-yellow.svg)](http://www.python.org/download/) 
 
 # Web-tester
 Web data collection
